@@ -1,0 +1,20 @@
+.Pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0%;
+  height: 10vh;
+}
+
+.left-arrow {
+  position: relative;
+  cursor: pointer;
+  left: -20%;
+}
+
+.right-arrow {
+  position: relative;
+  cursor: pointer;
+  right: -20%;
+}
